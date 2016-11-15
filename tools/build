@@ -1,0 +1,3 @@
+#!/bin/bash
+pug src/index.pug --out dist
+cp src/scripts/app.js dist/scripts/app.js
